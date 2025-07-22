@@ -16,7 +16,7 @@ using **Hibernate**, **Spring Data JPA**, and **PostgreSQL**.
 ---
 
 ## ⚙️ Tech Stack
-- Java 17 (or your version)
+- Java 21
 - Spring Boot
 - Spring Web
 - Spring Data JPA
